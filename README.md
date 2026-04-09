@@ -1,12 +1,8 @@
 # Coal Burn Detection using Variational Autoencoder
 
 An anomaly detection system for verifying carbon credit generation from household coal combustion data. Built as part of the URECA research program, this project uses a variational autoencoder (VAE) with reconstruction probability to identify anomalous patterns in time series sensor data.
-
-## Key Results
-
 - **98% accuracy** in anomaly detection within time series data using reconstruction probability
 - **$1,250 in carbon credits** verified across 5 households, securing **Gold Standard certification**
-- **5 website pages** built for the platform, improving navigation and boosting user engagement by 26%, leading to a 15% increase in average session duration
 
 ---
 
